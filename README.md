@@ -96,6 +96,15 @@
         但是在备份期间以及备份后,很容易混乱代码,以及混乱项目结构.这在团队工作中很不可取.熟练使用git 或者svn ,
         可以省去做代码备份等工作。
 
+1. 单元测试
+    
+    官方资料 [unittest](https://docs.python.org/3/library/unittest.html) [pytest](https://docs.pytest.org/en/latest/)
+    
+        python 提供多种单元测试模块,包括unittest 和pytest 等。
+        
+        在团队合作时，确保自己代码在满足要求的调用时，正确的运行是十分重要的。在个人项目以及团队合作中，单元测试都是值得完善的。
+        
+    
 ### 1.4 各领域最佳实践
 
 参考
